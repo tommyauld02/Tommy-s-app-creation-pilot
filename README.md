@@ -50,3 +50,8 @@ haze, pines on the valley floor, and birds circling far below once you're high e
 
 Everything is in `index.html`, in labelled sections: world generation, input, state, update,
 then the renderers (background → wall → holds → climber → UI).
+
+## Also in this repo
+
+- [`finance/`](finance/) — **Ledger**, a monthly finance organizer (bills and due dates, accounts,
+  paid vs. owed, money in vs. money out) that installs to your Home Screen.
